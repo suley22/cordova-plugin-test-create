@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+  id="jp.co.asial.sendalert"
+  version="0.0.1">
+
+    <name>Test Send Alert</name>
+    <description>SendAlert Description</description>
+    <author>Asial Corporation</author>
+    <license>Apache 2.0 License</license>
+    <engines>
+        <engine name="cordova" version=">=3.5.0" />
+    </engines>
+    <js-module src="www/sendalert.js" name="sendalert">
+        <clobbers target="SendAlert" />
+    </js-module>
+
+    
+    <platform name="android">
+        <config-file target="res/xml/config.xml" parent="/*">
+            <feature name="SendAlert"> 
+                <param name="org-apache-cordova-SendAlert" value="org.apache.cordova.SendAlert"/>
+            </feature>
+        </config-file>
+        <source-file src="src/android/test/plugin/SendAlert.java" target-dir="src/test/plugin" />        
+    </platform>
+
+</plugin>
