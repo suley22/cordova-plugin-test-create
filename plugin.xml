@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-  id="jp.co.asial.sendalert"
+  id="cordova-plugin-sendalert"
   version="0.0.1">
 
     <name>Test Send Alert</name>
@@ -18,7 +18,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="SendAlert"> 
-                <param name="org-apache-cordova-SendAlert" value="org.apache.cordova.SendAlert"/>
+                <param name="cordova-plugin-sendalert" value="cordova-plugin-sendalert"/>
             </feature>
         </config-file>
         <source-file src="src/android/test/plugin/SendAlert.java" target-dir="src/test/plugin" />        
