@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-<Document>
-<name>Paths</name>
-<description>Examples of paths. Note that the tessellate tag is by default
-  set to 0. If you want to create tessellated lines, they must be authored
-  (or edited) directly in KML.</description>
-<Style id="yellowLineGreenPoly">
-  <LineStyle>
-    <color>7f00ffff</color>
-    <width>4</width>
-  </LineStyle>
-  <PolyStyle>
-    <color>7f00ff00</color>
-  </PolyStyle>
-</Style>
-<description>Frankie likes walking and stopping</description>
+  <Document>
+    <name>Barrios de Córdoba Octubre 2016</name>
+    <description/>
+    
+    <Folder>
+    <description>Frankie likes walking and stopping</description>
     <Placemark id="track1">
         <name>frankies path</name>
         <LineString>
@@ -43,5 +34,6 @@
             <coordinates>-46.6616,-23.5632,100 </coordinates>
         </Point>
     </Placemark>
-    </Document>
-    </kml>
+</Folder>
+  </Document>
+</kml>
