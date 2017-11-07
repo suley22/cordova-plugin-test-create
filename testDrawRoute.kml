@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Paths</name>
+<description>Examples of paths. Note that the tessellate tag is by default
+  set to 0. If you want to create tessellated lines, they must be authored
+  (or edited) directly in KML.</description>
+<Style id="yellowLineGreenPoly">
+  <LineStyle>
+    <color>7f00ffff</color>
+    <width>4</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7f00ff00</color>
+  </PolyStyle>
+</Style>
+<description>Frankie likes walking and stopping</description>
+    <Placemark id="track1">
+        <name>frankies path</name>
+        <LineString>
+            <coordinates>-46.67,-23.58,100 -46.754,-23.666,100 -46.6616,-23.5632,100 </coordinates>
+        </LineString>
+    </Placemark>
+
+    <Placemark>
+        <name> 2012-05-31 17:23:09</name>
+        <description> Stop TIME: 19:25:20 Source: network</description>
+        <Point>
+            <coordinates>-46.67,-23.58,100 </coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name> 2012-05-31 17:23:09</name>
+        <description> Stop TIME: 03:01:59 Source: gps</description>
+        <Point>
+            <coordinates>-46.754,-23.666,100 </coordinates>
+        </Point>
+    </Placemark>
+    <Placemark>
+        <name> 2012-05-31 17:23:09</name>
+        <description> Stop TIME: 02:26:13 Source: network</description>
+        <Point>
+            <coordinates>-46.6616,-23.5632,100 </coordinates>
+        </Point>
+    </Placemark>
+    </Document>
+    </kml>
