@@ -9,7 +9,11 @@
     <Placemark id="track1">
         <name>frankies path</name>
         <LineString>
-            <coordinates>-46.67,-23.58,100 -46.754,-23.666,100 -46.6616,-23.5632,100 </coordinates>
+            <coordinates>
+              -46.67,-23.58,100 
+              -46.754,-23.666,100 
+              -46.6616,-23.5632,100 
+            </coordinates>
         </LineString>
     </Placemark>
 
