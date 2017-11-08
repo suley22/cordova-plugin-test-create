@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-<Document><name>My document</name>
+<Document>
+<name>My document</name>
 <description>Content</description>
 <Style id="Lump">
 <LineStyle><color>CD0000FF</color><width>2</width></LineStyle>
@@ -14,9 +15,10 @@
 http://maps.google.com/intl/en_us/mapfiles/ms/micons/red-dot.png
 </href></Icon></IconStyle>
 </Style>
+
+<Folder>
 <Placemark><name>NAME</name>
 <description>YES</description>
-<styleUrl>#Path</styleUrl>
 <LineString>
 <tessellate>1</tessellate>
 <altitudeMode>clampToGround</altitudeMode>
@@ -39,5 +41,7 @@ http://maps.google.com/intl/en_us/mapfiles/ms/micons/red-dot.png
 </coordinates>
 </LineString>
 </Placemark>
+</Folder>
+
 </Document>
 </kml>
