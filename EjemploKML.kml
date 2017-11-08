@@ -136,29 +136,12 @@
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
-            -64.199059,-31.4443028,0
-            -64.2002714,-31.4444904,0
-            -64.2003143,-31.4448154,0
-            -64.2013818,-31.4445911,0
-            -64.2024761,-31.4447422,0
-            -64.2043269,-31.444939,0
-            -64.2042518,-31.4446369,0
-            -64.203887,-31.4445911,0
-            -64.2039728,-31.4441609,0
-          </coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark>
-        <name>Línea 4</name>
-        <styleUrl>#line-FF5252-1200-nodesc</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
             -64.2028990653697,-31.438071899242612,0
             -31.437881121029555,-64.20285354582401,0            
           </coordinates>
         </LineString>
       </Placemark>
+      
     </Folder>
   </Document>
 </kml>
