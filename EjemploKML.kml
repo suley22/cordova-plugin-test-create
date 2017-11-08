@@ -148,6 +148,17 @@
           </coordinates>
         </LineString>
       </Placemark>
+      <Placemark>
+        <name>Línea 4</name>
+        <styleUrl>#line-FF5252-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -64.2039815658761,-31.44415093884748,0
+            -64.20399178514322,-31.443980077714173,0            
+          </coordinates>
+        </LineString>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
