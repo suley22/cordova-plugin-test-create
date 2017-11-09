@@ -117,7 +117,7 @@
         <styleUrl>#icon-1899-0F9D58</styleUrl>
         <Point>
           <coordinates>
-            -64.1992146,-31.4443211,0
+            -64.2028990653697,-31.438071899242612,0
           </coordinates>
         </Point>
       </Placemark>
@@ -126,7 +126,7 @@
         <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
         <Point>
           <coordinates>
-            -64.201532,-31.4446049,0
+           -64.20285354582401,-31.437881121029555,0
           </coordinates>
         </Point>
       </Placemark>
@@ -137,7 +137,7 @@
           <tessellate>1</tessellate>
           <coordinates>
             -64.2028990653697,-31.438071899242612,0
-            -31.437881121029555,-64.20285354582401,0            
+            -64.20285354582401,-31.437881121029555,0            
           </coordinates>
         </LineString>
       </Placemark>
