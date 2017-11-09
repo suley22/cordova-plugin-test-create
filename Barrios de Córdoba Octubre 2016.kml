@@ -492,12 +492,12 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>CIUDAD DE LOS NIÑOS</name>
-        <description><![CDATA[Descripción: CIUDAD DE LOS NIÑOS<br>TipoBarrio: 2<br>Shape_area: 111017.96734500000<br>Shape_len: 1563.14744145000]]></description>
+        <name>CIUDAD DE LOS NINOS</name>
+        <description><![CDATA[Descripción: CIUDAD DE LOS NINOS<br>TipoBarrio: 2<br>Shape_area: 111017.96734500000<br>Shape_len: 1563.14744145000]]></description>
         <styleUrl>#poly-AFB42B-1200-20</styleUrl>
         <ExtendedData>
           <Data name="Descripción">
-            <value>CIUDAD DE LOS NIÑOS</value>
+            <value>CIUDAD DE LOS NINOS</value>
           </Data>
           <Data name="TipoBarrio">
             <value>2</value>
@@ -2662,12 +2662,12 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>GUIÑAZU SUD</name>
-        <description><![CDATA[Descripción: GUIÑAZU SUD<br>TipoBarrio: 1<br>Shape_area: 39404.82381160000<br>Shape_len: 798.23021724700]]></description>
+        <name>GUINAZU SUD</name>
+        <description><![CDATA[Descripción: GUINAZU SUD<br>TipoBarrio: 1<br>Shape_area: 39404.82381160000<br>Shape_len: 798.23021724700]]></description>
         <styleUrl>#poly-880E4F-1200-33</styleUrl>
         <ExtendedData>
           <Data name="Descripción">
-            <value>GUIÑAZU SUD</value>
+            <value>GUINAZU SUD</value>
           </Data>
           <Data name="TipoBarrio">
             <value>1</value>
@@ -18155,12 +18155,12 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>LAS CAÑITAS</name>
-        <description><![CDATA[Descripción: LAS CAÑITAS<br>TipoBarrio: 2<br>Shape_area: 62355.68118250000<br>Shape_len: 1295.39533328000]]></description>
+        <name>LAS CANITAS</name>
+        <description><![CDATA[Descripción: LAS CANITAS<br>TipoBarrio: 2<br>Shape_area: 62355.68118250000<br>Shape_len: 1295.39533328000]]></description>
         <styleUrl>#poly-AFB42B-1200-20</styleUrl>
         <ExtendedData>
           <Data name="Descripción">
-            <value>LAS CAÑITAS</value>
+            <value>LAS CANITAS</value>
           </Data>
           <Data name="TipoBarrio">
             <value>2</value>
@@ -18300,12 +18300,12 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>OÑA</name>
-        <description><![CDATA[Descripción: OÑA<br>TipoBarrio: 1<br>Shape_area: 220763.55396799999<br>Shape_len: 2051.50350260000]]></description>
+        <name>ONA</name>
+        <description><![CDATA[Descripción: ONA<br>TipoBarrio: 1<br>Shape_area: 220763.55396799999<br>Shape_len: 2051.50350260000]]></description>
         <styleUrl>#poly-880E4F-1200-33</styleUrl>
         <ExtendedData>
           <Data name="Descripción">
-            <value>OÑA</value>
+            <value>ONA</value>
           </Data>
           <Data name="TipoBarrio">
             <value>1</value>
@@ -20845,12 +20845,12 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>CIUDAD DE MIS SUEÑOS</name>
-        <description><![CDATA[Descripción: CIUDAD DE MIS SUEÑOS<br>TipoBarrio: 2<br>Shape_area: 342907.88544500002<br>Shape_len: 2674.18628102000]]></description>
+        <name>CIUDAD DE MIS SUENOS</name>
+        <description><![CDATA[Descripción: CIUDAD DE MIS SUENOS<br>TipoBarrio: 2<br>Shape_area: 342907.88544500002<br>Shape_len: 2674.18628102000]]></description>
         <styleUrl>#poly-AFB42B-1200-20</styleUrl>
         <ExtendedData>
           <Data name="Descripción">
-            <value>CIUDAD DE MIS SUEÑOS</value>
+            <value>CIUDAD DE MIS SUENOS</value>
           </Data>
           <Data name="TipoBarrio">
             <value>2</value>
@@ -28157,12 +28157,12 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>ACHAVAL PEÑA</name>
-        <description><![CDATA[Descripción: ACHAVAL PEÑA<br>TipoBarrio: 1<br>Shape_area: 85448.89683560000<br>Shape_len: 1229.87367360000]]></description>
+        <name>ACHAVAL PENA</name>
+        <description><![CDATA[Descripción: ACHAVAL PENA<br>TipoBarrio: 1<br>Shape_area: 85448.89683560000<br>Shape_len: 1229.87367360000]]></description>
         <styleUrl>#poly-880E4F-1200-33</styleUrl>
         <ExtendedData>
           <Data name="Descripción">
-            <value>ACHAVAL PEÑA</value>
+            <value>ACHAVAL PENA</value>
           </Data>
           <Data name="TipoBarrio">
             <value>1</value>
@@ -28780,12 +28780,12 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>LOS SUEÑOS</name>
-        <description><![CDATA[Descripción: LOS SUEÑOS<br>TipoBarrio: 2<br>Shape_area: 268753.21273899998<br>Shape_len: 2123.56283869000]]></description>
+        <name>LOS SUENOS</name>
+        <description><![CDATA[Descripción: LOS SUENOS<br>TipoBarrio: 2<br>Shape_area: 268753.21273899998<br>Shape_len: 2123.56283869000]]></description>
         <styleUrl>#poly-AFB42B-1200-20</styleUrl>
         <ExtendedData>
           <Data name="Descripción">
-            <value>LOS SUEÑOS</value>
+            <value>LOS SUENOS</value>
           </Data>
           <Data name="TipoBarrio">
             <value>2</value>
@@ -43282,12 +43282,12 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>LAS CAÑUELAS</name>
-        <description><![CDATA[Descripción: LAS CAÑUELAS<br>TipoBarrio: 2<br>Shape_area: 1029394.35511000000<br>Shape_len: 4295.05537395000]]></description>
+        <name>LAS CANUELAS</name>
+        <description><![CDATA[Descripción: LAS CANUELAS<br>TipoBarrio: 2<br>Shape_area: 1029394.35511000000<br>Shape_len: 4295.05537395000]]></description>
         <styleUrl>#poly-AFB42B-1200-20</styleUrl>
         <ExtendedData>
           <Data name="Descripción">
-            <value>LAS CAÑUELAS</value>
+            <value>LAS CANUELAS</value>
           </Data>
           <Data name="TipoBarrio">
             <value>2</value>
@@ -45597,12 +45597,12 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>CABAÑA DEL PILAR</name>
-        <description><![CDATA[Descripción: CABAÑA DEL PILAR<br>TipoBarrio: 1<br>Shape_area: 74190.51226790001<br>Shape_len: 1146.87570131000]]></description>
+        <name>CABANA DEL PILAR</name>
+        <description><![CDATA[Descripción: CABANA DEL PILAR<br>TipoBarrio: 1<br>Shape_area: 74190.51226790001<br>Shape_len: 1146.87570131000]]></description>
         <styleUrl>#poly-880E4F-1200-33</styleUrl>
         <ExtendedData>
           <Data name="Descripción">
-            <value>CABAÑA DEL PILAR</value>
+            <value>CABANA DEL PILAR</value>
           </Data>
           <Data name="TipoBarrio">
             <value>1</value>
@@ -47660,12 +47660,12 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>GUIÑAZU</name>
-        <description><![CDATA[Descripción: GUIÑAZU<br>TipoBarrio: 1<br>Shape_area: 359788.99373699998<br>Shape_len: 3157.06694052000]]></description>
+        <name>GUINAZU</name>
+        <description><![CDATA[Descripción: GUINAZU<br>TipoBarrio: 1<br>Shape_area: 359788.99373699998<br>Shape_len: 3157.06694052000]]></description>
         <styleUrl>#poly-880E4F-1200-33</styleUrl>
         <ExtendedData>
           <Data name="Descripción">
-            <value>GUIÑAZU</value>
+            <value>GUINAZU</value>
           </Data>
           <Data name="TipoBarrio">
             <value>1</value>
