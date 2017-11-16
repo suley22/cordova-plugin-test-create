@@ -1,0 +1,2995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <Style id="-normal">
+      <LineStyle>
+        <color>ff01df01</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="-highlight">
+      <LineStyle>
+        <color>ffdf0101</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="randomColorIcon">
+      <IconStyle>
+        <color>ff00ff00</color>
+        <colorMode>normal</colorMode>
+        <scale>1.1000000000000001</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198759999999993,-31.444299999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198779999999999,-31.444310000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.199420000000003,-31.44436</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.199799999999996,-31.444400000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.200329999999994,-31.44462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.200519999999997,-31.444790000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.200969999999998,-31.444680000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.201229999999995,-31.44462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.201740000000001,-31.44463</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.202240000000003,-31.444690000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.202759999999998,-31.444739999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.203270000000003,-31.444800000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.203509999999994,-31.44482</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.203739999999996,-31.444849999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.20393,-31.444890000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.204250000000002,-31.444739999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.204229999999995,-31.44472</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.204149999999998,-31.444659999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.203059999999994,-31.444520000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197209999999998,-31.443809999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196839999999995,-31.443770000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196470000000005,-31.443729999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196100000000001,-31.44369</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195009999999996,-31.443560000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194659999999999,-31.4435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194310000000002,-31.443449999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.192909999999998,-31.443259999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.187020000000004,-31.442519999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.186899999999994,-31.442509999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.186750000000004,-31.442699999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188079999999999,-31.446639999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.190039999999996,-31.446639999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.19032,-31.446619999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193939999999998,-31.445869999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194040000000001,-31.44585</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194209999999998,-31.445830000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194479999999999,-31.445779999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194779999999994,-31.445730000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.19538,-31.445630000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195930000000004,-31.445519999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196219999999997,-31.44547</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196680000000001,-31.445399999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196759999999998,-31.44547</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196799999999996,-31.445589999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196830000000006,-31.445709999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196860000000001,-31.44585</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196929999999995,-31.44604</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197000000000003,-31.44624</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197069999999997,-31.446449999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197130000000001,-31.446639999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197199999999995,-31.446850000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197370000000006,-31.447320000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197490000000002,-31.447579999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197590000000005,-31.447590000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197779999999995,-31.44755</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197980000000001,-31.447500000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198139999999995,-31.447469999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198310000000006,-31.447420000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198679999999996,-31.446770000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198599999999999,-31.446549999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198340000000002,-31.445789999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197950000000006,-31.44462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197850000000003,-31.444320000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197749999999999,-31.444040000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197659999999999,-31.443770000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196809999999999,-31.44107</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196749999999994,-31.44089</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196389999999994,-31.439769999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196070000000006,-31.438770000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195949999999996,-31.43844</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195849999999993,-31.438089999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195729999999998,-31.437729999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195620000000005,-31.437360000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195499999999996,-31.436990000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195269999999994,-31.436260000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195149999999998,-31.43591</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194689999999994,-31.434550000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194519999999997,-31.434249999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194299999999998,-31.433979999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194040000000001,-31.43374</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193759999999997,-31.433479999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193510000000003,-31.433209999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193330000000003,-31.432929999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193190000000001,-31.432670000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.192210000000003,-31.432079999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.191919999999996,-31.43195</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.191640000000007,-31.431809999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.191419999999994,-31.431709999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.191180000000003,-31.431609999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.191019999999995,-31.431550000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.190920000000006,-31.431509999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.190880000000007,-31.43149</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.190880000000007,-31.431480000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.190889999999996,-31.431480000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.190899999999999,-31.431480000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.190880000000007,-31.431470000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.190380000000005,-31.4313</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.189160000000001,-31.430720000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188929999999999,-31.430599999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188890000000001,-31.430599999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188900000000004,-31.430630000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188910000000007,-31.430630000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188919999999996,-31.43064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188929999999999,-31.43064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188940000000002,-31.43064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188950000000006,-31.43065</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188959999999994,-31.43066</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188429999999997,-31.43038</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.18768,-31.430029999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.187179999999998,-31.429790000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.187119999999993,-31.429760000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.18674,-31.429559999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.18665,-31.429510000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.186639999999997,-31.429500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.18665,-31.429510000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.18665,-31.429500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.18665,-31.429500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.186310000000006,-31.429379999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.186229999999995,-31.429349999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183269999999993,-31.427980000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.181929999999994,-31.42736</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.181759999999997,-31.42727</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.181610000000006,-31.427199999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.181439999999995,-31.427119999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.181010000000001,-31.426909999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.180509999999998,-31.426690000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.180310000000006,-31.426590000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.179860000000005,-31.426410000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.179119999999998,-31.42605</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.178629999999998,-31.425820000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.178290000000004,-31.425660000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.178290000000004,-31.425660000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.176779999999994,-31.424969999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.174890000000005,-31.42408</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.172489999999996,-31.422499999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.17277,-31.422509999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.173540000000003,-31.423079999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.174719999999994,-31.42388</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.175889999999995,-31.424399999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.176159999999996,-31.424520000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.176280000000006,-31.424579999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.176439999999999,-31.424659999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.1768,-31.42482</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.17698,-31.42492</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.178910000000002,-31.425820000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.179150000000007,-31.425940000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.179910000000007,-31.426269999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.180260000000004,-31.42643</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.180269999999993,-31.42642</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.180350000000004,-31.426469999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.180689999999998,-31.426639999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.181100000000001,-31.42681</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.181569999999994,-31.427040000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.181849999999997,-31.42718</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.182149999999993,-31.427309999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183329999999998,-31.427879999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183459999999997,-31.42793</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183509999999998,-31.427949999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183520000000001,-31.427959999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183520000000001,-31.427959999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183520000000001,-31.427949999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183520000000001,-31.427949999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183520000000001,-31.427949999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183520000000001,-31.427949999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183520000000001,-31.427949999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183520000000001,-31.427949999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183520000000001,-31.427949999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183549999999997,-31.427959999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.183689999999999,-31.42801</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.186220000000006,-31.429189999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.186729999999997,-31.429410000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188059999999993,-31.430099999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188159999999996,-31.430140000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188199999999995,-31.430140000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188209999999998,-31.430129999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188209999999998,-31.430129999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188209999999998,-31.430129999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188209999999998,-31.430119999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188209999999998,-31.430119999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188209999999998,-31.430119999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.188209999999998,-31.430119999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.191509999999994,-31.431640000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.191760000000002,-31.43177</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.192019999999999,-31.431899999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.192310000000006,-31.432040000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.192549999999997,-31.43215</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193529999999996,-31.43252</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193560000000005,-31.43252</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193560000000005,-31.432510000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193569999999994,-31.432510000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193569999999994,-31.432500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193569999999994,-31.432500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193569999999994,-31.432500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193569999999994,-31.432500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193579999999997,-31.432500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193569999999994,-31.432500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193569999999994,-31.432500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193569999999994,-31.432500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.193579999999997,-31.432500000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194599999999994,-31.432680000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194540000000003,-31.433679999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194829999999996,-31.434429999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.194990000000004,-31.43488</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195369999999997,-31.436050000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195689999999999,-31.437069999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195800000000006,-31.437380000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195880000000002,-31.437619999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195930000000004,-31.43777</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195959999999999,-31.43788</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.195980000000006,-31.437940000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196010000000001,-31.438009999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196029999999993,-31.438079999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196039999999996,-31.438120000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196039999999996,-31.438130000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196039999999996,-31.438130000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.19605,-31.43816</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196100000000001,-31.438300000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196169999999995,-31.438510000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196240000000003,-31.438770000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196430000000007,-31.439340000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196529999999996,-31.439640000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.196619999999996,-31.43993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197130000000001,-31.441520000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197689999999994,-31.443370000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197869999999995,-31.44398</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.197959999999995,-31.44426</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198059999999998,-31.44455</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198430000000002,-31.445129999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198300000000003,-31.444870000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198139999999995,-31.444269999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198560000000001,-31.44425</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198740000000001,-31.444310000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198729999999998,-31.444310000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198719999999994,-31.444310000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198729999999998,-31.444310000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198729999999998,-31.444310000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198729999999998,-31.444310000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198729999999998,-31.444310000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198729999999998,-31.444310000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.198750000000004,-31.444310000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.283289999999994,-31.30001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.283320000000003,-31.30001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.283330000000007,-31.30002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.283379999999994,-31.30003</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.283450000000002,-31.30002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.283609999999996,-31.30003</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.283959999999993,-31.30003</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284260000000003,-31.30001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284369999999996,-31.300000000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284469999999999,-31.299990000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284809999999993,-31.299959999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284949999999995,-31.299949999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.285319999999999,-31.299869999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.285510000000002,-31.29982</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.285679999999999,-31.299769999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.285820000000001,-31.29974</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.285939999999997,-31.299710000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.28604,-31.299679999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.286159999999995,-31.299669999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.286270000000002,-31.299689999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.286720000000003,-31.299530000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.287189999999995,-31.29918</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.287589999999994,-31.298960000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.287819999999996,-31.2988</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.287980000000005,-31.298590000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.288799999999995,-31.297529999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.289199999999994,-31.29684</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.289410000000004,-31.296489999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.289590000000004,-31.296140000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.289739999999995,-31.29579</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.289900000000003,-31.295449999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.290229999999994,-31.294799999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.290530000000004,-31.294219999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.290689999999998,-31.29392</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.290859999999995,-31.293589999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291690000000003,-31.292020000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291910000000001,-31.29157</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291889999999995,-31.291219999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291550000000001,-31.291160000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291539999999998,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291539999999998,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291539999999998,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291539999999998,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291170000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291539999999998,-31.291180000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291539999999998,-31.291180000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291180000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291180000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291529999999995,-31.291180000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291420000000002,-31.29121</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.291240000000002,-31.29119</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.290719999999993,-31.291</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.290430000000001,-31.290880000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.289860000000004,-31.290659999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.289379999999994,-31.290520000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.289150000000006,-31.29053</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.288849999999996,-31.290559999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.288550000000001,-31.290569999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.288269999999997,-31.290569999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.288049999999998,-31.290569999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.287809999999993,-31.290569999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.287629999999993,-31.290579999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.287559999999999,-31.290590000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.287549999999996,-31.290590000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.287540000000007,-31.290600000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.286699999999996,-31.2928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.286640000000006,-31.292929999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.28631,-31.29355</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.285920000000004,-31.294280000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.285759999999996,-31.29457</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.285570000000007,-31.294930000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.285330000000002,-31.295390000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.28519,-31.295649999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284899999999993,-31.296240000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284739999999999,-31.29655</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284530000000004,-31.296959999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284390000000002,-31.297229999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284239999999997,-31.297509999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284220000000005,-31.29757</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.284030000000001,-31.297910000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.283900000000003,-31.29815</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.28349,-31.298940000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.283339999999995,-31.299219999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.283069999999995,-31.299710000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.282939999999996,-31.300000000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.282979999999995,-31.3001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.283069999999995,-31.300219999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.280529999999999,-31.300439999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.279430000000005,-31.300509999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.278869999999998,-31.300550000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.278310000000005,-31.300630000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.277690000000007,-31.300689999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.277000000000001,-31.300699999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.276229999999998,-31.300730000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.274000000000001,-31.30087</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.273300000000006,-31.300909999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.270539999999997,-31.301089999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.264449999999997,-31.301919999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.26437,-31.302060000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.263469999999998,-31.301880000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.263040000000004,-31.301839999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.262540000000001,-31.301870000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.262020000000007,-31.3019</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.261480000000006,-31.301939999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.260930000000002,-31.301970000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.260350000000003,-31.302009999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.259749999999997,-31.302050000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.259119999999996,-31.30208</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.258489999999995,-31.302129999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257829999999998,-31.30217</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257159999999999,-31.302219999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.256479999999996,-31.30226</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.255780000000001,-31.302299999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.255089999999996,-31.302350000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.254390000000001,-31.302389999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.253680000000003,-31.302430000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.252979999999994,-31.302479999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.252290000000002,-31.302520000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.251599999999996,-31.302569999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.250950000000003,-31.302610000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.250330000000005,-31.30265</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.249750000000006,-31.302689999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.248769999999993,-31.302759999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.248450000000005,-31.302790000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.2483,-31.302820000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.248310000000004,-31.30292</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.248540000000006,-31.302980000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.248729999999995,-31.302969999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.249660000000006,-31.302910000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.249859999999998,-31.302900000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.250579999999999,-31.302849999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.250870000000006,-31.30284</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.251170000000002,-31.302810000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.251459999999994,-31.302800000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.251720000000006,-31.302779999999998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.252200000000002,-31.30275</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.252430000000004,-31.30273</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.252939999999995,-31.302700000000002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.253280000000004,-31.302679999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.253399999999999,-31.302679999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.253489999999999,-31.302679999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.255099999999999,-31.302569999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.255390000000006,-31.30255</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.256469999999993,-31.30247</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.256649999999993,-31.30246</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257000000000005,-31.302440000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257230000000007,-31.302430000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257459999999995,-31.302420000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257800000000003,-31.30245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257850000000005,-31.302859999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257869999999997,-31.303149999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257900000000006,-31.303419999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257919999999999,-31.30368</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257930000000002,-31.303930000000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257959999999997,-31.304169999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.25797,-31.304359999999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.257990000000007,-31.30442</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.258049999999997,-31.30442</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.258110000000002,-31.30443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>-64.258170000000007,-31.30444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luminosidad=0LUX                                               </name>
+      <styleUrl>#randomColorIcon</styleUrl>
+      <Point>
+        <coordinates>0,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>
